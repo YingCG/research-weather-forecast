@@ -1,0 +1,4 @@
+date,The date of the observation in YYYY-MM-DD
+total_column_ozone ,The thickness of the Total Ozone Column (TOC) in Dobson Units
+conf_low ,Provides a lower limit to the uncertainty associated with the measurement of the observation based on a 95 percent confidence interval.
+conf_high,Provides an upper limit to the uncertainty associated with the measurement of the observation based on a 95 percent confidence interval.

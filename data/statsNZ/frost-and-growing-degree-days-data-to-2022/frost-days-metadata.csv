@@ -1,0 +1,6 @@
+Site,Site the NIWA climate stations represent.
+Lat,Approximate latitude of site location. 
+Lon,Approximate longitude of site location. 
+Year,Given year the total growing degrees are calculated for.
+Frost days,Total number of frost days are year as defined when the air temperature is below zero at 1.2m off the ground.
+First and last frost day,The first and late frost day recorded in a given year.

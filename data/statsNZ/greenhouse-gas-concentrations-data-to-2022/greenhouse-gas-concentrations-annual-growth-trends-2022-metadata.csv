@@ -1,0 +1,22 @@
+variable,"Type of GHG (CO2, CH4, N20)"
+term,Year is a term for including years in the linear model. Year2 is a term for including squared years in the linear model with a quadratic term.
+p_value,The two-sided p-value associated with the observed statistic
+slope,The estimated value of the regression term. Rise in y for every unit of x.
+method,The type of trend test undertaken. Note that for methane a linear model with a quadratic term is used. For the Mann Kendall test we used a modified Mann Kendall test for autocorrelated data modifiedmk::mmkh()
+z_score,Z statistic after correcting for autocorrelated data
+tau,Mann-Kendall's Tau
+variance,variance after correcting for autocorrelated data
+conf_low_90,The lower bound (inclusive) of values that's very likely to include a population value with a 90 percent degree of confidence
+conf_high_90,The upper bound (inclusive) of values that's very likely to include a population value with a 90 percent degree of confidence
+conf_low_66,The lower bound (inclusive) of values that's likely to include a population value with a 66 percent degree of confidence
+conf_high_66,The upper bound (inclusive) of values that's likely to include a population value with a 66 percent degree of confidence
+trend_likelihood,"A description of how strong/likely the trend result is. Trends are categorised use the p-value. Categories are based on Stats NZ likelihood scale, which is a subset of the categories used by the IPCC. The following table shows the p-values for the different categories.
+  term          left_break right_break left_open right_open
+  <fct>              <dbl>       <dbl> <lgl>     <lgl>
+1 Very likely         0.9         1    TRUE      FALSE
+2 Likely              0.66        0.9  TRUE      FALSE
+3 Indeterminate       0.33        0.66 FALSE     FALSE
+4 Unlikely            0.1         0.33 FALSE     TRUE
+5 Very unlikely       0           0.1  FALSE     TRUE   "
+r_squared,A measure of how well the regression line approximates the actual data. The r_squared value represents the proportion of the variance for a dependent variable that’s explained by an independent variable in a regression model.
+"period_start, period_end",The period the trend represents

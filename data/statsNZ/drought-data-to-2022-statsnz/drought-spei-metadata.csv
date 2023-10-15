@@ -1,0 +1,11 @@
+SPEI,SPEI is the balance of PET and P
+SPEI class,Categorising SPEI values into what they may represent climate-wise.
+Site,30 NIWA Climate stations
+Drought type and time scale,"The drought the SPEI values represent given at 3, 6, and 12 months."
+Imputed value,Whether the value was imputed using linear interpolation.
+Drought event,Whether the sequence of SPEI values meet the threshold for a drought event
+ID,Unique identify for analysis within this data set.
+Duration,Duration of the drought event in months.
+Severity,Sum of the SPEI values per drought event that are below -1.
+Intensity,Sum of the SPEI values per drought event standardised against time (severity/duration).
+Start event,The start date of a drought event

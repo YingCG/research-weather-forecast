@@ -1,0 +1,5 @@
+year,Year
+month,Month
+variable,"Type of GHG (CO2, CH4, N20)"
+parameter,"Description of what the value describes (mean, mean_fitted, seasonal_adjusted_mean, trend). mean = monthly mean, mean_fitted = monthly mean with any missing values interpolated, seasonal_adjusted_mean = mean_fitted - seasonal component of the STL, trend = STL value"
+unit,Units of measurement

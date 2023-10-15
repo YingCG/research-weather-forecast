@@ -1,0 +1,367 @@
+Timestamp,UTC Offset,Multiple Gauge Rainfall Recency Alarm (on/off),Quality,Rainfall (mm),Quality,Rainfall (Accumulated) (mm),Quality
+2022-08-18 00:00:00,12,,No data available,17,No quality or non-verified,0,Automated Process or Synthetic
+2022-08-19 00:00:00,12,,No data available,13.5,No quality or non-verified,13.5,Automated Process or Synthetic
+2022-08-20 00:00:00,12,,No data available,3.5,No quality or non-verified,17,Automated Process or Synthetic
+2022-08-21 00:00:00,12,,No data available,,No data available,17,Automated Process or Synthetic
+2022-08-22 00:00:00,12,,No data available,,No data available,17,Automated Process or Synthetic
+2022-08-23 00:00:00,12,,No data available,8,No quality or non-verified,25,Automated Process or Synthetic
+2022-08-24 00:00:00,12,,No data available,,No data available,25,Automated Process or Synthetic
+2022-08-25 00:00:00,12,,No data available,22,No quality or non-verified,47,Automated Process or Synthetic
+2022-08-26 00:00:00,12,,No data available,3.5,No quality or non-verified,50.5,Automated Process or Synthetic
+2022-08-27 00:00:00,12,,No data available,0.5,No quality or non-verified,51,Automated Process or Synthetic
+2022-08-28 00:00:00,12,,No data available,,No data available,51,Automated Process or Synthetic
+2022-08-29 00:00:00,12,,No data available,,No data available,51,Automated Process or Synthetic
+2022-08-30 00:00:00,12,,No data available,2.5,No quality or non-verified,53.5,Automated Process or Synthetic
+2022-08-31 00:00:00,12,,No data available,,No data available,53.5,Automated Process or Synthetic
+2022-09-01 00:00:00,12,,No data available,,No data available,53.5,Automated Process or Synthetic
+2022-09-02 00:00:00,12,,No data available,,No data available,53.5,Automated Process or Synthetic
+2022-09-03 00:00:00,12,,No data available,2.5,No quality or non-verified,56,Automated Process or Synthetic
+2022-09-04 00:00:00,12,,No data available,0.5,No quality or non-verified,56.5,Automated Process or Synthetic
+2022-09-05 00:00:00,12,,No data available,43,No quality or non-verified,99.5,Automated Process or Synthetic
+2022-09-06 00:00:00,12,,No data available,0.5,No quality or non-verified,100,Automated Process or Synthetic
+2022-09-07 00:00:00,12,,No data available,,No data available,100,Automated Process or Synthetic
+2022-09-08 00:00:00,12,,No data available,,No data available,100,Automated Process or Synthetic
+2022-09-09 00:00:00,12,,No data available,,No data available,100,Automated Process or Synthetic
+2022-09-10 00:00:00,12,,No data available,,No data available,100,Automated Process or Synthetic
+2022-09-11 00:00:00,12,,No data available,2,No quality or non-verified,102,Automated Process or Synthetic
+2022-09-12 00:00:00,12,,No data available,28,No quality or non-verified,130,Automated Process or Synthetic
+2022-09-13 00:00:00,12,,No data available,3,No quality or non-verified,133,Automated Process or Synthetic
+2022-09-14 00:00:00,12,,No data available,,No data available,133,Automated Process or Synthetic
+2022-09-15 00:00:00,12,,No data available,,No data available,133,Automated Process or Synthetic
+2022-09-16 00:00:00,12,,No data available,0.5,No quality or non-verified,133.5,Automated Process or Synthetic
+2022-09-17 00:00:00,12,,No data available,,No data available,133.5,Automated Process or Synthetic
+2022-09-18 00:00:00,12,,No data available,,No data available,133.5,Automated Process or Synthetic
+2022-09-19 00:00:00,12,,No data available,1.5,No quality or non-verified,135,Automated Process or Synthetic
+2022-09-20 00:00:00,12,,No data available,5,No quality or non-verified,140,Automated Process or Synthetic
+2022-09-21 00:00:00,12,,No data available,1,No quality or non-verified,141,Automated Process or Synthetic
+2022-09-22 00:00:00,12,,No data available,10,No quality or non-verified,151,Automated Process or Synthetic
+2022-09-23 00:00:00,12,,No data available,2,No quality or non-verified,153,Automated Process or Synthetic
+2022-09-24 00:00:00,12,,No data available,2,No quality or non-verified,155,Automated Process or Synthetic
+2022-09-25 00:00:00,12,,No data available,,No data available,155,Automated Process or Synthetic
+2022-09-26 01:00:00,13,,No data available,,No data available,155,Automated Process or Synthetic
+2022-09-27 01:00:00,13,,No data available,,No data available,155,Automated Process or Synthetic
+2022-09-28 01:00:00,13,,No data available,,No data available,155,Automated Process or Synthetic
+2022-09-29 01:00:00,13,,No data available,0.5,No quality or non-verified,155.5,Automated Process or Synthetic
+2022-09-30 01:00:00,13,,No data available,27.5,No quality or non-verified,183,Automated Process or Synthetic
+2022-10-01 01:00:00,13,,No data available,36,No quality or non-verified,219,Automated Process or Synthetic
+2022-10-02 01:00:00,13,,No data available,3,No quality or non-verified,222,Automated Process or Synthetic
+2022-10-03 01:00:00,13,,No data available,1,No quality or non-verified,223,Automated Process or Synthetic
+2022-10-04 01:00:00,13,,No data available,1,No quality or non-verified,224,Automated Process or Synthetic
+2022-10-05 01:00:00,13,,No data available,1.5,No quality or non-verified,225.5,Automated Process or Synthetic
+2022-10-06 01:00:00,13,,No data available,2,No quality or non-verified,227.5,Automated Process or Synthetic
+2022-10-07 01:00:00,13,,No data available,,No data available,227.5,Automated Process or Synthetic
+2022-10-08 01:00:00,13,,No data available,,No data available,227.5,Automated Process or Synthetic
+2022-10-09 01:00:00,13,,No data available,,No data available,227.5,Automated Process or Synthetic
+2022-10-10 01:00:00,13,,No data available,,No data available,227.5,Automated Process or Synthetic
+2022-10-11 01:00:00,13,,No data available,,No data available,227.5,Automated Process or Synthetic
+2022-10-12 01:00:00,13,,No data available,,No data available,227.5,Automated Process or Synthetic
+2022-10-13 01:00:00,13,,No data available,,No data available,227.5,Automated Process or Synthetic
+2022-10-14 01:00:00,13,,No data available,1,No quality or non-verified,228.5,Automated Process or Synthetic
+2022-10-15 01:00:00,13,,No data available,,No data available,228.5,Automated Process or Synthetic
+2022-10-16 01:00:00,13,,No data available,,No data available,228.5,Automated Process or Synthetic
+2022-10-17 01:00:00,13,,No data available,5.5,No quality or non-verified,234,Automated Process or Synthetic
+2022-10-18 01:00:00,13,,No data available,0.5,No quality or non-verified,234.5,Automated Process or Synthetic
+2022-10-19 01:00:00,13,,No data available,,No data available,234.5,Automated Process or Synthetic
+2022-10-20 01:00:00,13,,No data available,1,No quality or non-verified,235.5,Automated Process or Synthetic
+2022-10-21 01:00:00,13,,No data available,2,No quality or non-verified,237.5,Automated Process or Synthetic
+2022-10-22 01:00:00,13,,No data available,0.5,No quality or non-verified,238,Automated Process or Synthetic
+2022-10-23 01:00:00,13,,No data available,,No data available,238,Automated Process or Synthetic
+2022-10-24 01:00:00,13,,No data available,,No data available,238,Automated Process or Synthetic
+2022-10-25 01:00:00,13,,No data available,,No data available,238,Automated Process or Synthetic
+2022-10-26 01:00:00,13,,No data available,,No data available,238,Automated Process or Synthetic
+2022-10-27 01:00:00,13,,No data available,,No data available,238,Automated Process or Synthetic
+2022-10-28 01:00:00,13,,No data available,,No data available,238,Automated Process or Synthetic
+2022-10-29 01:00:00,13,,No data available,10,No quality or non-verified,248,Automated Process or Synthetic
+2022-10-30 01:00:00,13,,No data available,70,No quality or non-verified,318,Automated Process or Synthetic
+2022-10-31 01:00:00,13,,No data available,,No data available,318,Automated Process or Synthetic
+2022-11-01 01:00:00,13,,No data available,,No data available,318,Automated Process or Synthetic
+2022-11-02 01:00:00,13,,No data available,,No data available,318,Automated Process or Synthetic
+2022-11-03 01:00:00,13,,No data available,1,No quality or non-verified,319,Automated Process or Synthetic
+2022-11-04 01:00:00,13,,No data available,,No data available,319,Automated Process or Synthetic
+2022-11-05 01:00:00,13,,No data available,,No data available,319,Automated Process or Synthetic
+2022-11-06 01:00:00,13,,No data available,,No data available,319,Automated Process or Synthetic
+2022-11-07 01:00:00,13,,No data available,2.5,No quality or non-verified,321.5,Automated Process or Synthetic
+2022-11-08 01:00:00,13,,No data available,14,No quality or non-verified,335.5,Automated Process or Synthetic
+2022-11-09 01:00:00,13,,No data available,2,No quality or non-verified,337.5,Automated Process or Synthetic
+2022-11-10 01:00:00,13,,No data available,8.5,No quality or non-verified,346,Automated Process or Synthetic
+2022-11-11 01:00:00,13,,No data available,26,No quality or non-verified,372,Automated Process or Synthetic
+2022-11-12 01:00:00,13,,No data available,,No data available,372,Automated Process or Synthetic
+2022-11-13 01:00:00,13,,No data available,1,No quality or non-verified,373,Automated Process or Synthetic
+2022-11-14 01:00:00,13,,No data available,,No data available,373,Automated Process or Synthetic
+2022-11-15 01:00:00,13,,No data available,,No data available,373,Automated Process or Synthetic
+2022-11-16 01:00:00,13,,No data available,,No data available,373,Automated Process or Synthetic
+2022-11-17 01:00:00,13,,No data available,20,No quality or non-verified,393,Automated Process or Synthetic
+2022-11-18 01:00:00,13,,No data available,12,No quality or non-verified,405,Automated Process or Synthetic
+2022-11-19 01:00:00,13,,No data available,19.5,No quality or non-verified,424.5,Automated Process or Synthetic
+2022-11-20 01:00:00,13,,No data available,9,No quality or non-verified,433.5,Automated Process or Synthetic
+2022-11-21 01:00:00,13,,No data available,1,No quality or non-verified,434.5,Automated Process or Synthetic
+2022-11-22 01:00:00,13,,No data available,8.5,No quality or non-verified,443,Automated Process or Synthetic
+2022-11-23 01:00:00,13,,No data available,4.5,No quality or non-verified,447.5,Automated Process or Synthetic
+2022-11-24 01:00:00,13,,No data available,20.5,No quality or non-verified,468,Automated Process or Synthetic
+2022-11-25 01:00:00,13,,No data available,2,No quality or non-verified,470,Automated Process or Synthetic
+2022-11-26 01:00:00,13,,No data available,,No data available,470,Automated Process or Synthetic
+2022-11-27 01:00:00,13,,No data available,11.5,No quality or non-verified,481.5,Automated Process or Synthetic
+2022-11-28 01:00:00,13,,No data available,,No data available,481.5,Automated Process or Synthetic
+2022-11-29 01:00:00,13,,No data available,3,No quality or non-verified,484.5,Automated Process or Synthetic
+2022-11-30 01:00:00,13,,No data available,7,No quality or non-verified,491.5,Automated Process or Synthetic
+2022-12-01 01:00:00,13,,No data available,0.5,No quality or non-verified,492,Automated Process or Synthetic
+2022-12-02 01:00:00,13,,No data available,,No data available,492,Automated Process or Synthetic
+2022-12-03 01:00:00,13,,No data available,3,No quality or non-verified,495,Automated Process or Synthetic
+2022-12-04 01:00:00,13,,No data available,,No data available,495,Automated Process or Synthetic
+2022-12-05 01:00:00,13,,No data available,,No data available,495,Automated Process or Synthetic
+2022-12-06 01:00:00,13,,No data available,4,No quality or non-verified,499,Automated Process or Synthetic
+2022-12-07 01:00:00,13,,No data available,11.5,No quality or non-verified,510.5,Automated Process or Synthetic
+2022-12-08 01:00:00,13,,No data available,,No data available,510.5,Automated Process or Synthetic
+2022-12-09 01:00:00,13,,No data available,1.5,No quality or non-verified,512,Automated Process or Synthetic
+2022-12-10 01:00:00,13,,No data available,19.5,No quality or non-verified,531.5,Automated Process or Synthetic
+2022-12-11 01:00:00,13,,No data available,16,No quality or non-verified,547.5,Automated Process or Synthetic
+2022-12-12 01:00:00,13,,No data available,,No data available,547.5,Automated Process or Synthetic
+2022-12-13 01:00:00,13,,No data available,,No data available,547.5,Automated Process or Synthetic
+2022-12-14 01:00:00,13,,No data available,11.5,No quality or non-verified,559,Automated Process or Synthetic
+2022-12-15 01:00:00,13,,No data available,3.5,No quality or non-verified,562.5,Automated Process or Synthetic
+2022-12-16 01:00:00,13,,No data available,1,No quality or non-verified,563.5,Automated Process or Synthetic
+2022-12-17 01:00:00,13,,No data available,12.5,No quality or non-verified,576,Automated Process or Synthetic
+2022-12-18 01:00:00,13,,No data available,2,No quality or non-verified,578,Automated Process or Synthetic
+2022-12-19 01:00:00,13,,No data available,12,No quality or non-verified,590,Automated Process or Synthetic
+2022-12-20 01:00:00,13,,No data available,0.5,No quality or non-verified,590.5,Automated Process or Synthetic
+2022-12-21 01:00:00,13,,No data available,,No data available,590.5,Automated Process or Synthetic
+2022-12-22 01:00:00,13,,No data available,,No data available,590.5,Automated Process or Synthetic
+2022-12-23 01:00:00,13,,No data available,,No data available,590.5,Automated Process or Synthetic
+2022-12-24 01:00:00,13,,No data available,,No data available,590.5,Automated Process or Synthetic
+2022-12-25 01:00:00,13,,No data available,,No data available,590.5,Automated Process or Synthetic
+2022-12-26 01:00:00,13,,No data available,12,No quality or non-verified,602.5,Automated Process or Synthetic
+2022-12-27 01:00:00,13,,No data available,0.5,No quality or non-verified,603,Automated Process or Synthetic
+2022-12-28 01:00:00,13,,No data available,,No data available,603,Automated Process or Synthetic
+2022-12-29 01:00:00,13,,No data available,,No data available,603,Automated Process or Synthetic
+2022-12-30 01:00:00,13,,No data available,,No data available,603,Automated Process or Synthetic
+2022-12-31 01:00:00,13,,No data available,,No data available,603,Automated Process or Synthetic
+2023-01-01 01:00:00,13,0,Automated Process or Synthetic,,No data available,603,Automated Process or Synthetic
+2023-01-02 01:00:00,13,0,Automated Process or Synthetic,,No data available,603,Automated Process or Synthetic
+2023-01-03 01:00:00,13,0,Automated Process or Synthetic,0.5,No quality or non-verified,603.5,Automated Process or Synthetic
+2023-01-04 01:00:00,13,0,Automated Process or Synthetic,22.5,No quality or non-verified,626,Automated Process or Synthetic
+2023-01-05 01:00:00,13,0,Automated Process or Synthetic,12,No quality or non-verified,638,Automated Process or Synthetic
+2023-01-06 01:00:00,13,0,Automated Process or Synthetic,15.5,No quality or non-verified,653.5,Automated Process or Synthetic
+2023-01-07 01:00:00,13,0,Automated Process or Synthetic,12.5,No quality or non-verified,666,Automated Process or Synthetic
+2023-01-08 01:00:00,13,0,Automated Process or Synthetic,6,No quality or non-verified,672,Automated Process or Synthetic
+2023-01-09 01:00:00,13,0,Automated Process or Synthetic,5.5,No quality or non-verified,677.5,Automated Process or Synthetic
+2023-01-10 01:00:00,13,0,Automated Process or Synthetic,21.5,No quality or non-verified,699,Automated Process or Synthetic
+2023-01-11 01:00:00,13,0,Automated Process or Synthetic,4,No quality or non-verified,703,Automated Process or Synthetic
+2023-01-12 01:00:00,13,0,Automated Process or Synthetic,3,No quality or non-verified,706,Automated Process or Synthetic
+2023-01-13 01:00:00,13,0,Automated Process or Synthetic,,No data available,706,Automated Process or Synthetic
+2023-01-14 01:00:00,13,0,Automated Process or Synthetic,5,No quality or non-verified,711,Automated Process or Synthetic
+2023-01-15 01:00:00,13,0,Automated Process or Synthetic,,No data available,711,Automated Process or Synthetic
+2023-01-16 01:00:00,13,0,Automated Process or Synthetic,5,No quality or non-verified,716,Automated Process or Synthetic
+2023-01-17 01:00:00,13,0,Automated Process or Synthetic,5,No quality or non-verified,721,Automated Process or Synthetic
+2023-01-18 01:00:00,13,0,Automated Process or Synthetic,0.5,No quality or non-verified,721.5,Automated Process or Synthetic
+2023-01-19 01:00:00,13,0,Automated Process or Synthetic,,No data available,721.5,Automated Process or Synthetic
+2023-01-20 01:00:00,13,0,Automated Process or Synthetic,,No data available,721.5,Automated Process or Synthetic
+2023-01-21 01:00:00,13,0,Automated Process or Synthetic,,No data available,721.5,Automated Process or Synthetic
+2023-01-22 01:00:00,13,0,Automated Process or Synthetic,,No data available,721.5,Automated Process or Synthetic
+2023-01-23 01:00:00,13,0,Automated Process or Synthetic,,No data available,721.5,Automated Process or Synthetic
+2023-01-24 01:00:00,13,0,Automated Process or Synthetic,,No data available,721.5,Automated Process or Synthetic
+2023-01-25 01:00:00,13,0,Automated Process or Synthetic,,No data available,721.5,Automated Process or Synthetic
+2023-01-26 01:00:00,13,0,Automated Process or Synthetic,,No data available,721.5,Automated Process or Synthetic
+2023-01-27 01:00:00,13,0,Automated Process or Synthetic,280.5,No quality or non-verified,1002,Automated Process or Synthetic
+2023-01-28 01:00:00,13,0,Automated Process or Synthetic,20.5,No quality or non-verified,1022.5,Automated Process or Synthetic
+2023-01-29 01:00:00,13,0,Automated Process or Synthetic,12.5,No quality or non-verified,1035,Automated Process or Synthetic
+2023-01-30 01:00:00,13,0,Automated Process or Synthetic,12.5,No quality or non-verified,1047.5,Automated Process or Synthetic
+2023-01-31 01:00:00,13,0,Automated Process or Synthetic,16.5,No quality or non-verified,1064,Automated Process or Synthetic
+2023-02-01 01:00:00,13,0,Automated Process or Synthetic,77.5,No quality or non-verified,1141.5,Automated Process or Synthetic
+2023-02-02 01:00:00,13,0,Automated Process or Synthetic,1.5,No quality or non-verified,1143,Automated Process or Synthetic
+2023-02-03 01:00:00,13,0,Automated Process or Synthetic,10,No quality or non-verified,1153,Automated Process or Synthetic
+2023-02-04 01:00:00,13,0,Automated Process or Synthetic,,No data available,1153,Automated Process or Synthetic
+2023-02-05 01:00:00,13,0,Automated Process or Synthetic,4,No quality or non-verified,1157,Automated Process or Synthetic
+2023-02-06 01:00:00,13,0,Automated Process or Synthetic,6,No quality or non-verified,1163,Automated Process or Synthetic
+2023-02-07 01:00:00,13,0,Automated Process or Synthetic,,No data available,1163,Automated Process or Synthetic
+2023-02-08 01:00:00,13,0,Automated Process or Synthetic,,No data available,1163,Automated Process or Synthetic
+2023-02-09 01:00:00,13,0,Automated Process or Synthetic,,No data available,1163,Automated Process or Synthetic
+2023-02-10 01:00:00,13,0,Automated Process or Synthetic,,No data available,1163,Automated Process or Synthetic
+2023-02-11 01:00:00,13,0,Automated Process or Synthetic,1,No quality or non-verified,1164,Automated Process or Synthetic
+2023-02-12 01:00:00,13,0,Automated Process or Synthetic,16.5,No quality or non-verified,1180.5,Automated Process or Synthetic
+2023-02-13 01:00:00,13,0,Automated Process or Synthetic,95,No quality or non-verified,1275.5,Automated Process or Synthetic
+2023-02-14 01:00:00,13,0,Automated Process or Synthetic,44.5,No quality or non-verified,1320,Automated Process or Synthetic
+2023-02-15 01:00:00,13,0,Automated Process or Synthetic,,No data available,1320,Automated Process or Synthetic
+2023-02-16 01:00:00,13,0,Automated Process or Synthetic,0.5,No quality or non-verified,1320.5,Automated Process or Synthetic
+2023-02-17 01:00:00,13,0,Automated Process or Synthetic,,No data available,1320.5,Automated Process or Synthetic
+2023-02-18 01:00:00,13,0,Automated Process or Synthetic,,No data available,1320.5,Automated Process or Synthetic
+2023-02-19 01:00:00,13,0,Automated Process or Synthetic,,No data available,1320.5,Automated Process or Synthetic
+2023-02-20 01:00:00,13,0,Automated Process or Synthetic,,No data available,1320.5,Automated Process or Synthetic
+2023-02-21 01:00:00,13,0,Automated Process or Synthetic,,No data available,1320.5,Automated Process or Synthetic
+2023-02-22 01:00:00,13,0,Automated Process or Synthetic,1,No quality or non-verified,1321.5,Automated Process or Synthetic
+2023-02-23 01:00:00,13,0,Automated Process or Synthetic,4.5,No quality or non-verified,1326,Automated Process or Synthetic
+2023-02-24 01:00:00,13,0,Automated Process or Synthetic,51.5,No quality or non-verified,1377.5,Automated Process or Synthetic
+2023-02-25 01:00:00,13,0,Automated Process or Synthetic,3.5,No quality or non-verified,1381,Automated Process or Synthetic
+2023-02-26 01:00:00,13,0,Automated Process or Synthetic,8.5,No quality or non-verified,1389.5,Automated Process or Synthetic
+2023-02-27 01:00:00,13,0,Automated Process or Synthetic,5,No quality or non-verified,1394.5,Automated Process or Synthetic
+2023-02-28 01:00:00,13,0,Automated Process or Synthetic,1,No quality or non-verified,1395.5,Automated Process or Synthetic
+2023-03-01 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-02 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-03 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-04 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-05 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-06 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-07 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-08 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-09 01:00:00,13,0,Automated Process or Synthetic,,No data available,1395.5,Automated Process or Synthetic
+2023-03-10 01:00:00,13,0,Automated Process or Synthetic,1.5,No quality or non-verified,1397,Automated Process or Synthetic
+2023-03-11 01:00:00,13,0,Automated Process or Synthetic,,No data available,1397,Automated Process or Synthetic
+2023-03-12 01:00:00,13,0,Automated Process or Synthetic,,No data available,1397,Automated Process or Synthetic
+2023-03-13 01:00:00,13,0,Automated Process or Synthetic,2,No quality or non-verified,1399,Automated Process or Synthetic
+2023-03-14 01:00:00,13,0,Automated Process or Synthetic,,No data available,1399,Automated Process or Synthetic
+2023-03-15 01:00:00,13,0,Automated Process or Synthetic,,No data available,1399,Automated Process or Synthetic
+2023-03-16 01:00:00,13,0,Automated Process or Synthetic,4,No quality or non-verified,1403,Automated Process or Synthetic
+2023-03-17 01:00:00,13,0,Automated Process or Synthetic,15,No quality or non-verified,1418,Automated Process or Synthetic
+2023-03-18 01:00:00,13,0,Automated Process or Synthetic,8,No quality or non-verified,1426,Automated Process or Synthetic
+2023-03-19 01:00:00,13,0,Automated Process or Synthetic,,No data available,1426,Automated Process or Synthetic
+2023-03-20 01:00:00,13,0,Automated Process or Synthetic,,No data available,1426,Automated Process or Synthetic
+2023-03-21 01:00:00,13,0,Automated Process or Synthetic,11.5,No quality or non-verified,1437.5,Automated Process or Synthetic
+2023-03-22 01:00:00,13,0,Automated Process or Synthetic,0.5,No quality or non-verified,1438,Automated Process or Synthetic
+2023-03-23 01:00:00,13,0,Automated Process or Synthetic,,No data available,1438,Automated Process or Synthetic
+2023-03-24 01:00:00,13,0,Automated Process or Synthetic,,No data available,1438,Automated Process or Synthetic
+2023-03-25 01:00:00,13,0,Automated Process or Synthetic,,No data available,1438,Automated Process or Synthetic
+2023-03-26 01:00:00,13,0,Automated Process or Synthetic,,No data available,1438,Automated Process or Synthetic
+2023-03-27 01:00:00,13,0,Automated Process or Synthetic,,No data available,1438,Automated Process or Synthetic
+2023-03-28 01:00:00,13,0,Automated Process or Synthetic,2,No quality or non-verified,1440,Automated Process or Synthetic
+2023-03-29 01:00:00,13,0,Automated Process or Synthetic,1,No quality or non-verified,1441,Automated Process or Synthetic
+2023-03-30 01:00:00,13,0,Automated Process or Synthetic,,No data available,1441,Automated Process or Synthetic
+2023-03-31 01:00:00,13,0,Automated Process or Synthetic,,No data available,1441,Automated Process or Synthetic
+2023-04-01 01:00:00,13,0,Automated Process or Synthetic,4,No quality or non-verified,1445,Automated Process or Synthetic
+2023-04-02 01:00:00,13,0,Automated Process or Synthetic,,No data available,1445,Automated Process or Synthetic
+2023-04-03 00:00:00,12,0,Automated Process or Synthetic,2,No quality or non-verified,1447,Automated Process or Synthetic
+2023-04-04 00:00:00,12,0,Automated Process or Synthetic,,No data available,1447,Automated Process or Synthetic
+2023-04-05 00:00:00,12,0,Automated Process or Synthetic,,No data available,1447,Automated Process or Synthetic
+2023-04-06 00:00:00,12,0,Automated Process or Synthetic,14,No quality or non-verified,1461,Automated Process or Synthetic
+2023-04-07 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1461.5,Automated Process or Synthetic
+2023-04-08 00:00:00,12,0,Automated Process or Synthetic,,No data available,1461.5,Automated Process or Synthetic
+2023-04-09 00:00:00,12,0,Automated Process or Synthetic,7.5,No quality or non-verified,1469,Automated Process or Synthetic
+2023-04-10 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1469.5,Automated Process or Synthetic
+2023-04-11 00:00:00,12,0,Automated Process or Synthetic,2,No quality or non-verified,1471.5,Automated Process or Synthetic
+2023-04-12 00:00:00,12,0,Automated Process or Synthetic,6,No quality or non-verified,1477.5,Automated Process or Synthetic
+2023-04-13 00:00:00,12,0,Automated Process or Synthetic,,No data available,1477.5,Automated Process or Synthetic
+2023-04-14 00:00:00,12,0,Automated Process or Synthetic,,No data available,1477.5,Automated Process or Synthetic
+2023-04-15 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1478,Automated Process or Synthetic
+2023-04-16 00:00:00,12,0,Automated Process or Synthetic,,No data available,1478,Automated Process or Synthetic
+2023-04-17 00:00:00,12,0,Automated Process or Synthetic,,No data available,1478,Automated Process or Synthetic
+2023-04-18 00:00:00,12,0,Automated Process or Synthetic,,No data available,1478,Automated Process or Synthetic
+2023-04-19 00:00:00,12,0,Automated Process or Synthetic,,No data available,1478,Automated Process or Synthetic
+2023-04-20 00:00:00,12,0,Automated Process or Synthetic,,No data available,1478,Automated Process or Synthetic
+2023-04-21 00:00:00,12,0,Automated Process or Synthetic,13.5,No quality or non-verified,1491.5,Automated Process or Synthetic
+2023-04-22 00:00:00,12,0,Automated Process or Synthetic,8,No quality or non-verified,1499.5,Automated Process or Synthetic
+2023-04-23 00:00:00,12,0,Automated Process or Synthetic,,No data available,1499.5,Automated Process or Synthetic
+2023-04-24 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1500,Automated Process or Synthetic
+2023-04-25 00:00:00,12,0,Automated Process or Synthetic,,No data available,1500,Automated Process or Synthetic
+2023-04-26 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1500.5,Automated Process or Synthetic
+2023-04-27 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1501,Automated Process or Synthetic
+2023-04-28 00:00:00,12,0,Automated Process or Synthetic,2.5,No quality or non-verified,1503.5,Automated Process or Synthetic
+2023-04-29 00:00:00,12,0,Automated Process or Synthetic,,No data available,1503.5,Automated Process or Synthetic
+2023-04-30 00:00:00,12,0,Automated Process or Synthetic,11.5,No quality or non-verified,1515,Automated Process or Synthetic
+2023-05-01 00:00:00,12,0,Automated Process or Synthetic,23,No quality or non-verified,1538,Automated Process or Synthetic
+2023-05-02 00:00:00,12,0,Automated Process or Synthetic,1.5,No quality or non-verified,1539.5,Automated Process or Synthetic
+2023-05-03 00:00:00,12,0,Automated Process or Synthetic,8.5,No quality or non-verified,1548,Automated Process or Synthetic
+2023-05-04 00:00:00,12,0,Automated Process or Synthetic,35,No quality or non-verified,1583,Automated Process or Synthetic
+2023-05-05 00:00:00,12,0,Automated Process or Synthetic,5,No quality or non-verified,1588,Automated Process or Synthetic
+2023-05-06 00:00:00,12,0,Automated Process or Synthetic,1.5,No quality or non-verified,1589.5,Automated Process or Synthetic
+2023-05-07 00:00:00,12,0,Automated Process or Synthetic,1.5,No quality or non-verified,1591,Automated Process or Synthetic
+2023-05-08 00:00:00,12,0,Automated Process or Synthetic,4.5,No quality or non-verified,1595.5,Automated Process or Synthetic
+2023-05-09 00:00:00,12,0,Automated Process or Synthetic,81,No quality or non-verified,1676.5,Automated Process or Synthetic
+2023-05-10 00:00:00,12,0,Automated Process or Synthetic,6,No quality or non-verified,1682.5,Automated Process or Synthetic
+2023-05-11 00:00:00,12,0,Automated Process or Synthetic,13.5,No quality or non-verified,1696,Automated Process or Synthetic
+2023-05-12 00:00:00,12,0,Automated Process or Synthetic,1.5,No quality or non-verified,1697.5,Automated Process or Synthetic
+2023-05-13 00:00:00,12,0,Automated Process or Synthetic,,No data available,1697.5,Automated Process or Synthetic
+2023-05-14 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1698,Automated Process or Synthetic
+2023-05-15 00:00:00,12,0,Automated Process or Synthetic,7.5,No quality or non-verified,1705.5,Automated Process or Synthetic
+2023-05-16 00:00:00,12,0,Automated Process or Synthetic,1,No quality or non-verified,1706.5,Automated Process or Synthetic
+2023-05-17 00:00:00,12,0,Automated Process or Synthetic,,No data available,1706.5,Automated Process or Synthetic
+2023-05-18 00:00:00,12,0,Automated Process or Synthetic,1.5,No quality or non-verified,1708,Automated Process or Synthetic
+2023-05-19 00:00:00,12,0,Automated Process or Synthetic,16,No quality or non-verified,1724,Automated Process or Synthetic
+2023-05-20 00:00:00,12,0,Automated Process or Synthetic,24,No quality or non-verified,1748,Automated Process or Synthetic
+2023-05-21 00:00:00,12,0,Automated Process or Synthetic,2,No quality or non-verified,1750,Automated Process or Synthetic
+2023-05-22 00:00:00,12,0,Automated Process or Synthetic,6.5,No quality or non-verified,1756.5,Automated Process or Synthetic
+2023-05-23 00:00:00,12,0,Automated Process or Synthetic,3.5,No quality or non-verified,1760,Automated Process or Synthetic
+2023-05-24 00:00:00,12,0,Automated Process or Synthetic,,No data available,1760,Automated Process or Synthetic
+2023-05-25 00:00:00,12,0,Automated Process or Synthetic,,No data available,1760,Automated Process or Synthetic
+2023-05-26 00:00:00,12,0,Automated Process or Synthetic,,No data available,1760,Automated Process or Synthetic
+2023-05-27 00:00:00,12,0,Automated Process or Synthetic,1.5,No quality or non-verified,1761.5,Automated Process or Synthetic
+2023-05-28 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1762,Automated Process or Synthetic
+2023-05-29 00:00:00,12,0,Automated Process or Synthetic,11,No quality or non-verified,1773,Automated Process or Synthetic
+2023-05-30 00:00:00,12,0,Automated Process or Synthetic,,No data available,1773,Automated Process or Synthetic
+2023-05-31 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1773.5,Automated Process or Synthetic
+2023-06-01 00:00:00,12,0,Automated Process or Synthetic,,No data available,1773.5,Automated Process or Synthetic
+2023-06-02 00:00:00,12,0,Automated Process or Synthetic,5,No quality or non-verified,1778.5,Automated Process or Synthetic
+2023-06-03 00:00:00,12,0,Automated Process or Synthetic,,No data available,1778.5,Automated Process or Synthetic
+2023-06-04 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1779,Automated Process or Synthetic
+2023-06-05 00:00:00,12,0,Automated Process or Synthetic,2.5,No quality or non-verified,1781.5,Automated Process or Synthetic
+2023-06-06 00:00:00,12,0,Automated Process or Synthetic,5,No quality or non-verified,1786.5,Automated Process or Synthetic
+2023-06-07 00:00:00,12,0,Automated Process or Synthetic,,No data available,1786.5,Automated Process or Synthetic
+2023-06-08 00:00:00,12,0,Automated Process or Synthetic,,No data available,1786.5,Automated Process or Synthetic
+2023-06-09 00:00:00,12,0,Automated Process or Synthetic,,No data available,1786.5,Automated Process or Synthetic
+2023-06-10 00:00:00,12,0,Automated Process or Synthetic,,No data available,1786.5,Automated Process or Synthetic
+2023-06-11 00:00:00,12,0,Automated Process or Synthetic,,No data available,1786.5,Automated Process or Synthetic
+2023-06-12 00:00:00,12,0,Automated Process or Synthetic,,No data available,1786.5,Automated Process or Synthetic
+2023-06-13 00:00:00,12,0,Automated Process or Synthetic,,No data available,1786.5,Automated Process or Synthetic
+2023-06-14 00:00:00,12,0,Automated Process or Synthetic,,No data available,1786.5,Automated Process or Synthetic
+2023-06-15 00:00:00,12,0,Automated Process or Synthetic,2.5,No quality or non-verified,1789,Automated Process or Synthetic
+2023-06-16 00:00:00,12,0,Automated Process or Synthetic,21.5,No quality or non-verified,1810.5,Automated Process or Synthetic
+2023-06-17 00:00:00,12,0,Automated Process or Synthetic,5,No quality or non-verified,1815.5,Automated Process or Synthetic
+2023-06-18 00:00:00,12,0,Automated Process or Synthetic,8.5,No quality or non-verified,1824,Automated Process or Synthetic
+2023-06-19 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1824.5,Automated Process or Synthetic
+2023-06-20 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1825,Automated Process or Synthetic
+2023-06-21 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1825.5,Automated Process or Synthetic
+2023-06-22 00:00:00,12,0,Automated Process or Synthetic,32.5,No quality or non-verified,1858,Automated Process or Synthetic
+2023-06-23 00:00:00,12,0,Automated Process or Synthetic,9.5,No quality or non-verified,1867.5,Automated Process or Synthetic
+2023-06-24 00:00:00,12,0,Automated Process or Synthetic,5,No quality or non-verified,1872.5,Automated Process or Synthetic
+2023-06-25 00:00:00,12,0,Automated Process or Synthetic,1,No quality or non-verified,1873.5,Automated Process or Synthetic
+2023-06-26 00:00:00,12,0,Automated Process or Synthetic,16,No quality or non-verified,1889.5,Automated Process or Synthetic
+2023-06-27 00:00:00,12,0,Automated Process or Synthetic,9.5,No quality or non-verified,1899,Automated Process or Synthetic
+2023-06-28 00:00:00,12,0,Automated Process or Synthetic,1,No quality or non-verified,1900,Automated Process or Synthetic
+2023-06-29 00:00:00,12,0,Automated Process or Synthetic,7.5,No quality or non-verified,1907.5,Automated Process or Synthetic
+2023-06-30 00:00:00,12,0,Automated Process or Synthetic,26.5,No quality or non-verified,1934,Automated Process or Synthetic
+2023-07-01 00:00:00,12,0,Automated Process or Synthetic,6,No quality or non-verified,1940,Automated Process or Synthetic
+2023-07-02 00:00:00,12,0,Automated Process or Synthetic,9.5,No quality or non-verified,1949.5,Automated Process or Synthetic
+2023-07-03 00:00:00,12,0,Automated Process or Synthetic,6,No quality or non-verified,1955.5,Automated Process or Synthetic
+2023-07-04 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1956,Automated Process or Synthetic
+2023-07-05 00:00:00,12,0,Automated Process or Synthetic,,No data available,1956,Automated Process or Synthetic
+2023-07-06 00:00:00,12,0,Automated Process or Synthetic,,No data available,1956,Automated Process or Synthetic
+2023-07-07 00:00:00,12,0,Automated Process or Synthetic,18.5,No quality or non-verified,1974.5,Automated Process or Synthetic
+2023-07-08 00:00:00,12,0,Automated Process or Synthetic,4.5,No quality or non-verified,1979,Automated Process or Synthetic
+2023-07-09 00:00:00,12,0,Automated Process or Synthetic,1,No quality or non-verified,1980,Automated Process or Synthetic
+2023-07-10 00:00:00,12,0,Automated Process or Synthetic,6.5,No quality or non-verified,1986.5,Automated Process or Synthetic
+2023-07-11 00:00:00,12,0,Automated Process or Synthetic,3.5,No quality or non-verified,1990,Automated Process or Synthetic
+2023-07-12 00:00:00,12,0,Automated Process or Synthetic,4.5,No quality or non-verified,1994.5,Automated Process or Synthetic
+2023-07-13 00:00:00,12,0,Automated Process or Synthetic,1.5,No quality or non-verified,1996,Automated Process or Synthetic
+2023-07-14 00:00:00,12,0,Automated Process or Synthetic,2,No quality or non-verified,1998,Automated Process or Synthetic
+2023-07-15 00:00:00,12,0,Automated Process or Synthetic,,No data available,1998,Automated Process or Synthetic
+2023-07-16 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1998.5,Automated Process or Synthetic
+2023-07-17 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1999,Automated Process or Synthetic
+2023-07-18 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,1999.5,Automated Process or Synthetic
+2023-07-19 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,2000,Automated Process or Synthetic
+2023-07-20 00:00:00,12,0,Automated Process or Synthetic,6,No quality or non-verified,2006,Automated Process or Synthetic
+2023-07-21 00:00:00,12,0,Automated Process or Synthetic,57,No quality or non-verified,2063,Automated Process or Synthetic
+2023-07-22 00:00:00,12,0,Automated Process or Synthetic,,No data available,2063,Automated Process or Synthetic
+2023-07-23 00:00:00,12,0,Automated Process or Synthetic,,No data available,2063,Automated Process or Synthetic
+2023-07-24 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,2063.5,Automated Process or Synthetic
+2023-07-25 00:00:00,12,0,Automated Process or Synthetic,2,No quality or non-verified,2065.5,Automated Process or Synthetic
+2023-07-26 00:00:00,12,0,Automated Process or Synthetic,10,No quality or non-verified,2075.5,Automated Process or Synthetic
+2023-07-27 00:00:00,12,0,Automated Process or Synthetic,9.5,No quality or non-verified,2085,Automated Process or Synthetic
+2023-07-28 00:00:00,12,2,Ok,3,No quality or non-verified,2088,Automated Process or Synthetic
+2023-07-29 00:00:00,12,,No data available,,No data available,2088,Automated Process or Synthetic
+2023-07-30 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,2088.5,Automated Process or Synthetic
+2023-07-31 00:00:00,12,0,Automated Process or Synthetic,,No data available,2088.5,Automated Process or Synthetic
+2023-08-01 00:00:00,12,0,Automated Process or Synthetic,,No data available,2088.5,Automated Process or Synthetic
+2023-08-02 00:00:00,12,0,Automated Process or Synthetic,17,No quality or non-verified,2105.5,Automated Process or Synthetic
+2023-08-03 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,2106,Automated Process or Synthetic
+2023-08-04 00:00:00,12,,No data available,,No data available,2106,Automated Process or Synthetic
+2023-08-05 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,2106.5,Automated Process or Synthetic
+2023-08-06 00:00:00,12,0,Automated Process or Synthetic,,No data available,2106.5,Automated Process or Synthetic
+2023-08-07 00:00:00,12,0,Automated Process or Synthetic,,No data available,2106.5,Automated Process or Synthetic
+2023-08-08 00:00:00,12,0,Automated Process or Synthetic,2.5,No quality or non-verified,2109,Automated Process or Synthetic
+2023-08-09 00:00:00,12,0,Automated Process or Synthetic,2,No quality or non-verified,2111,Automated Process or Synthetic
+2023-08-10 00:00:00,12,0,Automated Process or Synthetic,4,No quality or non-verified,2115,Automated Process or Synthetic
+2023-08-11 00:00:00,12,,No data available,,No data available,2115,Automated Process or Synthetic
+2023-08-12 00:00:00,12,,No data available,0.5,No quality or non-verified,2115.5,Automated Process or Synthetic
+2023-08-13 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,2116,Automated Process or Synthetic
+2023-08-14 00:00:00,12,0,Automated Process or Synthetic,6,No quality or non-verified,2122,Automated Process or Synthetic
+2023-08-15 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,2122.5,Automated Process or Synthetic
+2023-08-16 00:00:00,12,0,Automated Process or Synthetic,3,No quality or non-verified,2125.5,Automated Process or Synthetic
+2023-08-17 00:00:00,12,0,Automated Process or Synthetic,3,No quality or non-verified,2128.5,Automated Process or Synthetic
+2023-08-18 00:00:00,12,0,Automated Process or Synthetic,0.5,No quality or non-verified,2129,Automated Process or Synthetic

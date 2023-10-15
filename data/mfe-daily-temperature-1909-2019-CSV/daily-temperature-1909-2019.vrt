@@ -1,0 +1,12 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="daily-temperature-1909-2019">
+    <SrcDataSource relativeToVRT="1">daily-temperature-1909-2019.csv</SrcDataSource>
+    <FeatureCount>2049471</FeatureCount>
+    <Field name="location_name" src="location_name" type="String" />
+    <Field name="date" src="date" type="String" />
+    <Field name="statistic" src="statistic" type="String" />
+    <Field name="temperature" src="temperature" type="String" />
+    <Field name="station_name_niwa" src="station_name_niwa" type="String" />
+    <Field name="agent_number" src="agent_number" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

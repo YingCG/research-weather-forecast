@@ -1,0 +1,10 @@
+Site,Site the NIWA climate stations represent.
+"Period start, Period end",The period the trend represents.
+Lat,Approx. lattitude location of NIWA climate stations to represent a site.
+Lon,Approx. longitude location of NIWA climate stations to represent a site.
+"Slope, Conf Low, Conf High",Sen slope statistic to describe rate of change and relevant confidence intervals.
+Conf level,Specified confidence level of the estimate.
+n,Number of data points included in trend calculation.
+P Value,Probability of obtaining test results at least as extreme as the result actually observed.
+"S, Var S, Tau",Mann-Kendall test statistics.
+Trend likelihood,Likelihood of trend direction adapted from IPCC criteria.

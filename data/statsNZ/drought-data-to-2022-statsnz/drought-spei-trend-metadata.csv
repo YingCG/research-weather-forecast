@@ -1,0 +1,12 @@
+Site,Site the NIWA climate stations represent.
+"Period start, Period end",The period the trend represents.
+Lat,Approx. lattitude location of NIWA climate stations to represent a site.
+Lon,Approx. longitude location of NIWA climate stations to represent a site.
+P value,Probability of obtaining test results at least as extreme as the result actually observed.
+Trend likelihood,Likelihood of trend direction adapted from IPCC criteria.
+Trend type,"Duration is the number of months a drought event lasts. 
+Average SPEI is the annual average SPEI value. Severity is the sum of SPEI values per drought event. Intensity is severity/duration. Peak month is the lowest SPEI value recorded per drought event. Frequency is the numbers of months between each drought event."
+Drought type,"The drought the SPEI values represent given at 3, 6, and 12 months (meterological, agricultural and hydrological respectively."
+"S, Var S, Tau",Mann-Kendall test statistics.
+Conf level,Specified confidence level of the estimate.
+n,Number of data points included in trend calculation.

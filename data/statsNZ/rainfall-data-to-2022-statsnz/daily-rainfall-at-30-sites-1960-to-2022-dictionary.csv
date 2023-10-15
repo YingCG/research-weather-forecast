@@ -1,0 +1,6 @@
+﻿"site","Location of monitoring station"
+"date","Date"
+"rainfall","Rainfall in mm"
+"rainfall_units","Rainfall is measured in mm"
+"lat","Approximate latitude location of NIWA climate stations to represent a site."
+"lon","Approximate longitude location of NIWA climate stations to represent a site."

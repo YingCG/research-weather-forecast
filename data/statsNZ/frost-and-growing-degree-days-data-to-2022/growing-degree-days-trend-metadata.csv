@@ -1,0 +1,11 @@
+Site,Site the NIWA climate stations represent.,Growing degree days
+"Period start, Period end",The period the trend represents.,Growing degree days
+Lat,Approx. lattitude location of NIWA climate stations to represent a site.,Growing degree days
+Lon,Approx. longitude location of NIWA climate stations to represent a site.,Growing degree days
+"Slope, Conf Low, Conf High",Sen slope statistic to describe rate of change (degree Celsius per year) and relevant 90% and 66% confidence intervals.,Growing degree days
+Conf level,Specified confidence level of the estimate.,Growing degree days
+n,Number of data points included in trend calculation.,Growing degree days
+P Value,probability of obtaining test results at least as extreme as the result actually observed,Growing degree days
+"S, Var S, Tau",Mann-Kendall test statistics.,Growing degree days
+Trend likelihood,Likelihood of trend direction adapted from IPCC criteria.,Growing degree days
+Base temperature,The base temperature to calculate the total GDD. Threshold is in degrees Celsius.,Growing degree days

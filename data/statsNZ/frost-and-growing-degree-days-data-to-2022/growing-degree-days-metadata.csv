@@ -1,0 +1,7 @@
+Site,Site the NIWA climate stations represent.
+Lat,Approximate latitude of site location. 
+Lon,Approximate longitude of site location. 
+Year,Given year the total growing degrees are calculated for.
+Growing degrees,The total number of degrees Celsius above a base threshold temperature for each year.
+Base temperature,The base temperature to calculate the total GDD. Threshold is in degrees Celsius .
+Units,Units applicable for both growing degrees and the base temperature (degrees Celsius).
