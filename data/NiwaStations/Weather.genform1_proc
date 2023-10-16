@@ -1,0 +1,42 @@
+Station information:
+Name	Agent Number	Network Number	Latitude (dec.deg)	Longitude (dec.deg)	Height (m)	Posn_Precision	Observing Authority
+Hamilton, Ruakura Ews	12616	C75733	-37.77879	175.31271	40	H	Niwa
+Leigh 2 Ews	1340	A64282	-36.26925	174.79920	27	H	N/A
+Warkworth	1374	A64463	-36.434	174.668	72	G	N/A
+Kumeu	1408	A64754	-36.787	174.551	32	G	N/A
+Ngatea 1	1539	B75252	-37.262	175.523	2	G	N/A
+Waitoa 2	1577	B75663	-37.595	175.630	18	T	N/A
+Warkworth Ews	17838	A64464	-36.43435	174.66766	72	H	Niwa
+Auckland, Mangere	1945	C64971	-36.970	174.776	2	G	N/A
+Auckland,Otara	1948	C64981	-36.956	174.872	12	G	N/A
+Pukekohe M.A.F.	2005	C74282	-37.208	174.863	82	G	N/A
+Pukekohe Ews	2006	C74283	-37.20637	174.86384	88	H	Niwa
+Te Kauwhata M.A.F.	2081	C75412	-37.411	175.142	32	G	N/A
+Ohinewai	2082	C75413	-37.491	175.156	10	G	N/A
+Horsham Downs 2	2097	C75722	-37.69502	175.26901	37	H	N/A
+Ohote	2099	C75724	-37.776	175.216	40	G	N/A
+Hamilton, Ruakura	2101	C75731	-37.780	175.313	40	G	N/A
+Whatawhata	2103	C75801	-37.812	175.087	104	G	N/A
+Rukuhia	2109	C75831	-37.830	175.300	66	G	N/A
+Hamilton, Ruakura 2 Ews	26117	C75734	-37.77389	175.30517	45	H	Niwa/Agresearch
+Firth Of Thames Ews	38619	C75241	-37.21514	175.45045	3	H	Niwa
+Whitianga Ews	40981	B65863	-36.828	175.672	1	G	Niwa
+Auckland, Motat Ews	41351	A6487G	-36.86297	174.71185	16	H	Niwa
+Auckland, Mangere 2 Ews	43711	C64973	-36.96480	174.78052	16	H	Niwa
+Manukau Heads Ews	45217	A74054	-37.05299	174.54906	240	H	Niwa
+Note: Position precision types are: "W" = based on whole minutes, "T" = estimated to tenth minute,
+"G" = derived from gridref , "E" = error cases derived from gridref,
+"H" = based on GPS readings (NZGD49), "D" = by definition i.e. grid points.
+
+Weather
+Station	Date(NZST)	Vis(km)	Vtype	Wpres	Wpast1	Wpast2
+
+No rows? See this help link <http://cliflo.niwa.co.nz/pls/niwp/wh.do_help?id=nodata> for possible reasons
+
+UserName is = yingchiu
+Total number of rows output = 0
+Number of rows remaining in subscription = 1234528
+Copyright NIWA 2023 Subject to NIWA's Terms and Conditions
+See: http://clifloecd1.niwa.co.nz/pls/niwp/doc/terms.html
+Comments to: cliflo@niwa.co.nz
+
